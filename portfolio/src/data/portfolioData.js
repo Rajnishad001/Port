@@ -1,5 +1,6 @@
 import quickchat from "../assets/images/quickchat.png";
 import taskmanager from "../assets/images/taskmanager.png";
+import portfolio from "../assets/images/portfolio.png";
 
 export const personalInfo = {
   name: "Raj Kumar Nishad",
@@ -37,5 +38,13 @@ export const projects = [
       "Real-time chat application with modern UI, instant messaging and scalable architecture built using modern web technologies.",
     github: "https://github.com/Rajnishad001/QuickChate",
     demo: "#",
+  },
+
+  {
+    title: "Portfolio Website",
+    image: portfolio,
+    github: "https://github.com/Rajnishad001/Port",
+     description:
+      "A modern and responsive portfolio website built using React, Vite, and Tailwind CSS. It showcases my skills, projects, GitHub profile, resume, and contact information with EmailJS integration."
   },
 ];
