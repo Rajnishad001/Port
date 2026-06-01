@@ -3,6 +3,7 @@ import { projects } from "../data/portfolioData";
 import { motion } from "framer-motion";
 
 const Projects = () => {
+  console.log(projects);
   return (
     <section
       id="projects"

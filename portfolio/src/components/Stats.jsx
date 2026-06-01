@@ -2,7 +2,7 @@ import React from "react";
 
 const stats = [
   {
-    number: "2+",
+    number: "5+",
     title: "Projects",
   },
   {
